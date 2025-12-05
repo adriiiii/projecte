@@ -153,7 +153,7 @@ S'utilitza com a cache per comptar visites i millorar el rendiment del frontend.
 <img width="888" height="810" alt="image" src="https://github.com/user-attachments/assets/767289ca-f061-47e8-8cee-ad216efb01fc" />
 
 * **Output JSON de l’API**
-  (Inserir captura aquí)
+<img width="1914" height="214" alt="image" src="https://github.com/user-attachments/assets/4fe330a9-5e82-4720-9b72-6ae5f19fb553" />
 
 * **Logs d’Apache**
-  (Inserir captura aquí)
+<img width="1903" height="485" alt="image" src="https://github.com/user-attachments/assets/5d28edb9-c75b-46d9-a057-43aa2d8bfece" />
