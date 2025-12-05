@@ -48,8 +48,6 @@ L'estructura permet que cada servei funcioni de manera aïllada dins del seu con
 # Instruccions per Desplegar l'Aplicació
 
 ## Requisits previs
-
-* Docker ≥ 20.x
 * Docker Compose ≥ 2.x
 
 Afegir les entrades següents al fitxer hosts per poder accedir als dominis locals:
